@@ -36,7 +36,7 @@ O Habits é um monitor e check-list para consultar, registrar e acompanhar seus 
 
 ## 📋 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK] (https://www.figma.com/file/5Vgb0pgTsdTi1wSHSvlaBw/Habits-(e)-(Community)?node-id=6%3A910&t=iGhlxFeecjVOzEwL-1). É necessário ter conta no [Figma] (https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/5Vgb0pgTsdTi1wSHSvlaBw/Habits-(e)-(Community)?node-id=6%3A910&t=iGhlxFeecjVOzEwL-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
